@@ -36,3 +36,4 @@ or <a href="mailto:liberte_grant@hotmail.com"><b>email</b></a> me.
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+![ViewCount](https://komarev.com/ghpvc/?username=liberte-Grant&color=1A4730)
