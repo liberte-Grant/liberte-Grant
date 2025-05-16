@@ -1,6 +1,6 @@
 
 
-## Tim's Community Chess Liberte
+## Tim's Community Chess Liberte Grant
 
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
