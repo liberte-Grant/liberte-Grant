@@ -77,9 +77,9 @@ Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the
 | 195 | [@shpatrickguo](https://github.com/shpatrickguo) |
 
 
-<br>
+## GitHub Stats
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats:</i></h2>
+<br>
 
 <table border="1">
   <tr>
