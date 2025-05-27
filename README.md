@@ -40,5 +40,5 @@ or <a href="mailto:liberte_grant@hotmail.com"><b>email</b></a> me.
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liberte-Grant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liberte-Grant&layout=compact&theme=gotham&custom_title=Statistics)  
 
